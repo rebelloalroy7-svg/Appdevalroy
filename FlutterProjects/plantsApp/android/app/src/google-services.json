@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3665717388",
+    "project_id": "alroy-fca95",
+    "storage_bucket": "alroy-fca95.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3665717388:android:3fd749d4546151c67bb3a9",
+        "android_client_info": {
+          "package_name": "com.plantsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3665717388-5bpjcusmf78t885ae3sijaoeeceme64v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlz9GjYQJ1wwRgg2GvV3eNwqnW6yQjhDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3665717388-5bpjcusmf78t885ae3sijaoeeceme64v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
